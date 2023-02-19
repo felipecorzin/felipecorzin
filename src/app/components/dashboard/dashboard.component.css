@@ -1,0 +1,16 @@
+/* Barra de navegacion */
+.navbar {
+  padding: 2rem;
+  background-color: var(--primary-color);
+}
+
+.navbar-collapse {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-link {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #fff;
+}
